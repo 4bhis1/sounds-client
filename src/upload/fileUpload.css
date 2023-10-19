@@ -1,0 +1,13 @@
+.navigateContainer {
+  display: flex;
+  justify-content: center;
+}
+
+.navigate {
+  padding: 10px;
+  margin: 20px;
+  font-size: 16px;
+  cursor: pointer;
+  width: min-content;
+  background-color: aliceblue;
+}
